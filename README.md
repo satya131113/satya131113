@@ -1,9 +1,18 @@
-- 👋 Hi, I’m chittlu v satya m k
-- 👀 I’m interested in blockchain, cloud, mobile development, system design, user analytics
-- 🌱 I’m currently learning deeplearning, flutter
-- 💞️ I’m looking to collaborate on python & flutter projects
+# Hi there, I'm Murali Krishna Chittlu! 👋
 
-<!---
-satya131113/satya131113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a passionate Data Scientist with a strong foundation in computer science. I graduated from IIT Bhubaneswar with a B Tech in CSE, and since then, I have been dedicated to pursuing a career path focused on Data Science. I have developed a good understanding of various technologies such as MongoDB, FASTAPI, Flask framework, SQL, Databricks, Linux systems, Firebase, Azure, GCP, Flutter, and React.
+
+## Certifications
+- Azure Associate Data Scientist
+
+## Interests
+While enhancing my understanding of Data Science and Business Analytics, I am always eager to explore new ways to learn and grow. I constantly seek opportunities to expand my knowledge through online courses, attending conferences, and collaborating with peers.
+
+## Get in Touch
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/v-s-murali-krishna-chittlu-b480831b6/). I'm always open to networking and discussing exciting opportunities.
+
+## Responsibilities and Collaboration
+As a team player, I believe in the power of collaboration. I am always willing to help others and take on additional responsibilities when necessary. I take ownership of my tasks and proactively propose innovative solutions.
+
+Let's connect and make a positive impact together!
