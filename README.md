@@ -3,6 +3,9 @@
 ## About Me
 I am a passionate Data Scientist with a strong foundation in computer science. I graduated from IIT Bhubaneswar with a B Tech in CSE, and since then, I have been dedicated to pursuing a career path focused on Data Science. I have developed a good understanding of various technologies such as MongoDB, FASTAPI, Flask framework, SQL, Databricks, Linux systems, Firebase, Azure, GCP, Flutter, and React.
 
+## Resume Link
+* [Resume](Ch.VSatyaMuraliKrishna.pdf)
+
 ## Certifications
 - [Azure Associate Data Scientist](https://www.credly.com/badges/ae0be0dd-50c2-4e7b-ba28-7703735f525f/public_url)
 
